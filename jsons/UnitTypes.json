@@ -35,7 +35,7 @@
 		"movementType": "Land"
 	},
 	{
-		"name": "BattleStar",
+		"name": "Battlestar",
 		"movementType": "Land"
 		"uniques": [
 			"[+10000]% Strength <when adjacent to a [Battlestar] unit>"
