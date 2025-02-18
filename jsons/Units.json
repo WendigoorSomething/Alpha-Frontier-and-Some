@@ -3095,7 +3095,9 @@
 			}
 		]
 	},
-{
+
+			
+	{
 		"name": "Dai Atlas (Robot Mode)",
 		"unitType": "Powered Master",
 		"movement": 10,
@@ -3137,7 +3139,9 @@
 			}
 		]
 	},
-{
+
+
+	{
 		"name": "Sonic Bomber (Robot Mode)",
 		"unitType": "Powered Master",
 		"movement": 9,
@@ -3179,7 +3183,9 @@
 			}
 		]
 	},
-{
+
+
+	{
 		"name": "Roadfire (Robot Mode)",
 		"unitType": "Powered Master",
 		"movement": 9,
@@ -3355,7 +3361,9 @@
 			}
 		]
 	},
-{
+
+				
+	{
 		"name": "Dai Atlas (Vehicle Mode)",
 		"unitType": "Powered Master",
 		"movement": 10,
@@ -3399,7 +3407,9 @@
 			}
 		]
 	},
-{
+
+		
+	{
 		"name": "Sonic Bomber (Vehicle Mode)",
 		"unitType": "Powered Master",
 		"movement": 9,
@@ -3443,7 +3453,9 @@
 			}
 		]
 	},
-{
+
+		
+	{
 		"name": "Roadfire (Vehicle Mode)",
 		"unitType": "Powered Master",
 		"movement": 9,
@@ -3485,6 +3497,7 @@
 			}
 		]
 	},
+
 
 	//// Siege
 	{
@@ -3611,7 +3624,9 @@
 			}
 		]
 	},
-{
+
+			
+	{
 		"name": "Dai Atlas (Base Mode)",
 		"unitType": "Powered Master",
 		"movement": 0,
@@ -3652,7 +3667,9 @@
 			}
 		]
 	},
-{
+
+				
+	{
 		"name": "Sonic Bomber (Base Mode)",
 		"unitType": "Powered Master",
 		"movement": 0,
@@ -3693,7 +3710,9 @@
 			}
 		]
 	},
-{
+
+		
+	{
 		"name": "Roadfire (Base Mode)",
 		"unitType": "Powered Master",
 		"movement": 0,
@@ -3735,6 +3754,7 @@
 		]
 	},
 
+			
 	// Ideo specific units
 	//// Purification
 	{
