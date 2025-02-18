@@ -2526,7 +2526,7 @@ TileSets/FantasyHex/Units/Grandus (Base Mode)
   index: -1
 TileSets/FantasyHex/Units/Sky Garry (Robot Mode)
   rotate: false
-  xy: 2013, 33
+  xy: 2013, 333
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
