@@ -3007,8 +3007,6 @@
 			}
 		]
 	},
-
-
 	{
 		"name": "Grandus (Robot Mode)",
 		"unitType": "Battlestar",
@@ -3051,8 +3049,6 @@
 			}
 		]
 	},
-
-
 	{
 		"name": "Sky Garry (Robot Mode)",
 		"unitType": "Battlestar",
@@ -3095,8 +3091,6 @@
 			}
 		]
 	},
-
-			
 	{
 		"name": "Dai Atlas (Robot Mode)",
 		"unitType": "Powered Master",
@@ -3139,8 +3133,6 @@
 			}
 		]
 	},
-
-
 	{
 		"name": "Sonic Bomber (Robot Mode)",
 		"unitType": "Powered Master",
@@ -3183,8 +3175,6 @@
 			}
 		]
 	},
-
-
 	{
 		"name": "Roadfire (Robot Mode)",
 		"unitType": "Powered Master",
@@ -3228,7 +3218,6 @@
 		]
 	},
 
-
 	//// Armored
 	{
 		"name": "Star Convoy (Vehicle Mode)",
@@ -3271,8 +3260,6 @@
 			}
 		]
 	},
-
-
 	{
 		"name": "Grandus (Vehicle Mode)",
 		"unitType": "Battlestar",
@@ -3315,8 +3302,6 @@
 			}
 		]
 	},
-
-
 	{
 		"name": "Sky Garry (Vehicle Mode)",
 		"unitType": "Battlestar",
@@ -3361,8 +3346,6 @@
 			}
 		]
 	},
-
-				
 	{
 		"name": "Dai Atlas (Vehicle Mode)",
 		"unitType": "Powered Master",
@@ -3406,9 +3389,7 @@
 				"text": "The leader of the Cybertrons who protect justice. His large-sized defense base is invincible, made with the ‘Zone Plan,’ and use of Micromaster Power."
 			}
 		]
-	},
-
-		
+	},		
 	{
 		"name": "Sonic Bomber (Vehicle Mode)",
 		"unitType": "Powered Master",
@@ -3453,8 +3434,6 @@
 			}
 		]
 	},
-
-		
 	{
 		"name": "Roadfire (Vehicle Mode)",
 		"unitType": "Powered Master",
@@ -3498,7 +3477,6 @@
 		]
 	},
 
-
 	//// Siege
 	{
 		"name": "Star Convoy (Base Mode)",
@@ -3537,9 +3515,9 @@
 			},
 			{
 				"text": "The new leader of the Cybertron corps including the Micromasters. He fights with the power of supernova energy 'Zodiac'. Caterpillar treads on his feet are his special ability, allowing him to travel over all terrain."
+			}
+		]
 	},
-	
-
 	{
 		"name": "Grandus (Base Mode)",
 		"unitType": "Battlestar",
@@ -3580,8 +3558,6 @@
 			}
 		]
 	},
-
-
 	{
 		"name": "Sky Garry (Base Mode)",
 		"unitType": "Battlestar",
@@ -3624,8 +3600,6 @@
 			}
 		]
 	},
-
-			
 	{
 		"name": "Dai Atlas (Base Mode)",
 		"unitType": "Powered Master",
@@ -3667,8 +3641,6 @@
 			}
 		]
 	},
-
-				
 	{
 		"name": "Sonic Bomber (Base Mode)",
 		"unitType": "Powered Master",
@@ -3710,8 +3682,6 @@
 			}
 		]
 	},
-
-		
 	{
 		"name": "Roadfire (Base Mode)",
 		"unitType": "Powered Master",
@@ -3754,7 +3724,6 @@
 		]
 	},
 
-			
 	// Ideo specific units
 	//// Purification
 	{
@@ -3941,7 +3910,6 @@
 			}
 		]
 	},
-
 	{
 		"name": "Siren",
 		"unitType": "Xeno Melee Land",
