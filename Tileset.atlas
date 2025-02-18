@@ -2601,7 +2601,7 @@ TileSets/FantasyHex/Units/Roadfire (Vehicle Mode)
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Raodfire (Base Mode)
+TileSets/FantasyHex/Units/Roadfire (Base Mode)
   rotate: false
   xy: 1853, 333
   size: 32, 32
