@@ -555,8 +555,9 @@
   "tileScale": 1.0,
   "unitScales": {
     "Battlestar Vehicle": 20.0
+	"Big Powered": 20.0
   },
   "images": {
-    "units": "Images.TilesetsTileSets/FantasyHex/Units/Battlestar Vehicle"
+    "units": "Images.Tilesets/TileSets/FantasyHex/Units/"
   }
 }
