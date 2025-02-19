@@ -550,3 +550,13 @@
 		
 	}
 }
+{
+  "tileSetName": "FantasyHex",
+  "tileScale": 1.0,
+  "unitScales": {
+    "Battlestar Vehicle": 2.0
+  },
+  "images": {
+    "units": "Images/Units/"
+  }
+}
