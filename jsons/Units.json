@@ -2985,7 +2985,6 @@
 			"Limited to [1] per Civilization",
 			"[+10] Sight",
 			"No damage penalty for wounded units",
-			"May attack when embarked",
 			"Can transform to [Star Convoy (Vehicle Mode)]",
 			"Can transform to [Star Convoy (Base Mode)]",
 			"Never appears as a Barbarian unit"
@@ -3027,7 +3026,6 @@
 			"Limited to [1] per Civilization",
 			"[+10] Sight",
 			"No damage penalty for wounded units",
-			"May attack when embarked",
 			"Can transform to [Grandus (Vehicle Mode)]",
 			"Can transform to [Grandus (Base Mode)]",
 			"Never appears as a Barbarian unit"
@@ -3069,7 +3067,6 @@
 			"Limited to [1] per Civilization",
 			"[+10] Sight",
 			"No damage penalty for wounded units",
-			"May attack when embarked",
 			"Can transform to [Sky Garry (Vehicle Mode)]",
 			"Can transform to [Sky Garry (Base Mode)]",
 			"Never appears as a Barbarian unit"
@@ -3111,7 +3108,6 @@
 			"Limited to [1] per Civilization",
 			"[+10] Sight",
 			"No damage penalty for wounded units",
-			"May attack when embarked",
 			"Can transform to [Dai Atlas (Vehicle Mode)]",
 			"Can transform to [Dai Atlas (Base Mode)]",
 			"Never appears as a Barbarian unit"
@@ -3153,7 +3149,6 @@
 			"Limited to [1] per Civilization",
 			"[+10] Sight",
 			"No damage penalty for wounded units",
-			"May attack when embarked",
 			"Can transform to [Sonic Bomber (Vehicle Mode)]",
 			"Can transform to [Sonic Bomber (Base Mode)]",
 			"Never appears as a Barbarian unit"
@@ -3195,7 +3190,6 @@
 			"Limited to [1] per Civilization",
 			"[+10] Sight",
 			"No damage penalty for wounded units",
-			"May attack when embarked",
 			"Can transform to [Roadfire (Vehicle Mode)]",
 			"Can transform to [Roadfire (Base Mode)]",
 			"Never appears as a Barbarian unit"
