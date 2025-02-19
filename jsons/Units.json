@@ -3487,8 +3487,6 @@
 		"requiredTech": "Singularity Tech",
 		"uniqueTo": "Cybertrons",
 		"uniques": [
-			"Unbuildable",
-			"Cannot be purchased",
 			"No defensive terrain bonus",
 			"[100]% chance to intercept air attacks",
 			"[+1000]% Strength <when defending>",
@@ -3529,8 +3527,6 @@
 		"requiredTech": "Singularity Tech",
 		"uniqueTo": "Cybertrons",
 		"uniques": [
-			"Unbuildable",
-			"Cannot be purchased",
 			"No defensive terrain bonus",
 			"[100]% chance to intercept air attacks",
 			"[+1000]% Strength <when defending>",
