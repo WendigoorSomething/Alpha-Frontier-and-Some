@@ -47,7 +47,7 @@ class CustomTileLayerUnitSprite(tileGroup: TileGroup, size: Float) : TileLayerUn
             // Check if the unit is the specific one that should be twice as long
             if (unit.name == "Battlestar Vehicle") {
                 // Scale the image to be twice as long as a tile
-                pixelUnitImage.setSize(pixelUnitImage.width * 2, pixelUnitImage.height)
+                pixelUnitImage.setSize(pixelUnitImage.width * 2, pixelUnitImage.height * 2)
             }
         }
         return slot
