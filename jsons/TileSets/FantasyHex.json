@@ -557,6 +557,6 @@
     "Battlestar Vehicle": 2.0
   },
   "images": {
-    "units": "Images/Units/"
+    "units": "Images.TilesetsTileSets/FantasyHex/Units/Battlestar Vehicle"
   }
 }
