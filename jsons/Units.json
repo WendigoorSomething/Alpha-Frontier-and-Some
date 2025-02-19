@@ -3505,7 +3505,7 @@
 			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Big Powered",
-				"imageSize": 128
+				"imageSize": 64
 			},
 			*/
 			{
@@ -3545,7 +3545,7 @@
 			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Battlestar Vehicle",
-				"imageSize": 128
+				"imageSize": 64
 			},
 			*/
 			{
