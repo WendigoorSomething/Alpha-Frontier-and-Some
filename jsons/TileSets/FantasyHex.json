@@ -550,14 +550,3 @@
 		
 	}
 }
-{
-  "tileSetName": "FantasyHex",
-  "tileScale": 1.0,
-  "unitScales": {
-    "Battlestar Vehicle": 20.0
-	"Big Powered": 20.0
-  },
-  "images": {
-    "units": "Images.Tilesets/TileSets/FantasyHex/Units/"
-  }
-}
