@@ -2610,16 +2610,16 @@ TileSets/FantasyHex/Units/Roadfire (Base Mode)
   index: -1
 TileSets/FantasyHex/Units/Battlestar Vehicle
   rotate: false
-  xy: 1981, 269
-  size: 64, 36
-  orig: 64, 36
+  xy: 1981, 301
+  size: 64, 32
+  orig: 64, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Big Powered
   rotate: false
-  xy: 1917, 269
-  size: 64, 36
-  orig: 64, 36
+  xy: 1917, 301
+  size: 64, 32
+  orig: 64, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Zero Point Ship Reactor
