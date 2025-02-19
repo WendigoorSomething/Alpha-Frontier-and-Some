@@ -2618,9 +2618,9 @@ TileSets/FantasyHex/Units/Battlestar Vehicle
 TileSets/FantasyHex/Units/Big Powered
   rotate: false
   xy: 1917, 269
-  size: 64, 64
-  orig: 32, 32
-  offset: 0, 0
+  size: 32, 64
+  orig: 32, 64
+  offset: -16, 0
   index: -1
 TileSets/FantasyHex/Units/Zero Point Ship Reactor
   rotate: false
