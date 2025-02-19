@@ -6,7 +6,7 @@ class ModEntryPoint {
 
     fun initializeMod() {
         val tileGroup = TileGroup() // Initialize your TileGroup appropriately
-        val size = 1.0f // Set the appropriate size
+        val size = 2.0f // Set the appropriate size
 
         val tileLayerInitializer = TileLayerInitializer()
         val customTileLayer = tileLayerInitializer.createCustomTileLayer(tileGroup, size)
