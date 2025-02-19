@@ -554,7 +554,7 @@
   "tileSetName": "FantasyHex",
   "tileScale": 1.0,
   "unitScales": {
-    "Battlestar Vehicle": 2.0
+    "Battlestar Vehicle": 20.0
   },
   "images": {
     "units": "Images.TilesetsTileSets/FantasyHex/Units/Battlestar Vehicle"
