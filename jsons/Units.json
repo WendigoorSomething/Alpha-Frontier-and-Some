@@ -3476,6 +3476,90 @@
 			}
 		]
 	},
+	{
+		"name": "Big Powered",
+		"unitType": "Powered Master",
+		"movement": 25,
+		"range": 25,
+		"strength": 2500,
+		"rangedStrength": 2500,
+		"cost": 5000,
+		"requiredTech": "Singularity Tech",
+		"uniqueTo": "Cybertrons",
+		"uniques": [
+			"Unbuildable",
+			"Cannot be purchased",
+			"No defensive terrain bonus",
+			"[100]% chance to intercept air attacks",
+			"[+1000]% Strength <when defending>",
+			"[+100]% Damage when intercepting <vs [Satellite] units>",
+			"Can move after attacking",
+			"All tiles cost 1 movement",
+			"[+500]% XP gained from combat",
+			"Limited to [1] per Civilization",
+			"[+25] Sight",
+			"No damage penalty for wounded units",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "ChargeUpBeam",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Big Powered",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "The combineed form of the Powered Masters, it can travel at 9999 Powered Knots."
+			}
+		]
+	},		
+	{
+		"name": "Battlestar Vehicle",
+		"unitType": "Battlestar",
+		"movement": 25,
+		"range": 25,
+		"strength": 2500,
+		"rangedStrength": 2500,
+		"cost": 5000,
+		"requiredTech": "Singularity Tech",
+		"uniqueTo": "Cybertrons",
+		"uniques": [
+			"Unbuildable",
+			"Cannot be purchased",
+			"No defensive terrain bonus",
+			"[100]% chance to intercept air attacks",
+			"[+1000]% Strength <when defending>",
+			"[+100]% Damage when intercepting <vs [Satellite] units>",
+			"Can move after attacking",
+			"All tiles cost 1 movement",
+			"[+500]% XP gained from combat",
+			"Limited to [1] per Civilization",
+			"[+25] Sight",
+			"No damage penalty for wounded units",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "ChargeUpBeam",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Battlestar Vehicle",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "The combined form of the Battlestars, using Star Convoy, Sky Garry, and Grandus."
+			}
+		]
+	},		
 
 	//// Siege
 	{
