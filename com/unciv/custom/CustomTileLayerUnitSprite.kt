@@ -43,8 +43,12 @@ class CustomTileLayerUnitSprite(tileGroup: TileGroup, size: Float) : TileLayerUn
         for (pixelUnitImage in pixelUnitImages) {
             slot.spriteGroup.addActor(pixelUnitImage)
             pixelUnitImage.setHexagonSize() // Treat this as A TILE, which gets overlayed on the base tile.
-            // Scale the image to be twice as long as a tile
-            pixelUnitImage.setSize(pixelUnitImage.width * 2, pixelUnitImage.height)
+
+            // Check if the unit is the specific one that should be twice as long
+            if (unit.name == "Battlestar Vehicle") {
+                // Scale the image to be twice as long as a tile
+                pixelUnitImage.setSize(pixelUnitImage.width * 2, pixelUnitImage.height)
+            }
         }
         return slot
     }
