@@ -38,16 +38,18 @@
 		"name": "Battlestar",
 		"movementType": "Land"
 		"uniques": [
-			"[+10000]% Strength <when adjacent to a [Battlestar] unit>",
-			"May travel on Water tiles without embarking"
+			"Can pass through impassable tiles",
+			"May travel on Water tiles without embarking",
+			"Ranged attacks may be performed over obstacles"
 		]
 	},
 	{
 		"name": "Powered Master",
 		"movementType": "Land"
 		"uniques": [
-			"[+5000]% Strength <when adjacent to a [Powered Master] unit>",
-			"May travel on Water tiles without embarking"
+			"Can pass through impassable tiles",
+			"May travel on Water tiles without embarking",
+			"Ranged attacks may be performed over obstacles"
 		]
 	},
 	{
